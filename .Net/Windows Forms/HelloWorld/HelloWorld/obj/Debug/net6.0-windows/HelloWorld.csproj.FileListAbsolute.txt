@@ -1,0 +1,17 @@
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.exe
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.deps.json
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.runtimeconfig.json
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.dll
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.pdb
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.AssemblyInfo.cs
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.dll
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\refint\HelloWorld.dll
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.pdb
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.genruntimeconfig.cache
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\ref\HelloWorld.dll
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.HelloWorld.resources
+C:\Users\Yan Witer\Documents\GitHub\formacao-back-end\.Net\Windows Forms\HelloWorld\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.csproj.GenerateResource.cache
